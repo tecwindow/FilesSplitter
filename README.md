@@ -2,6 +2,10 @@
 
 This simple tool allows you to split large text files into small files.
 
+## Download:
+
+You can download this tool using [this link](https://github.com/tecwindow/FilesSplitter/releases/download/V1.0.0/FilesSplitter.-V1.0.0.exe)
+
 ## How it workes?
 
 - Open the tool, choose import file, select the file you want.
